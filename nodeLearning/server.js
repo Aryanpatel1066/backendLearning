@@ -29,3 +29,5 @@ const server = http.createServer((req,res)=>{
 server.listen(8000,()=>{
     console.log("server was hit")
 })
+
+//mongo db => document orientd , store data in the forms of collections and document
