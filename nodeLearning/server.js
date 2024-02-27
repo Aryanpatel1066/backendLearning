@@ -31,3 +31,14 @@ server.listen(8000,()=>{
 })
 
 //mongo db => document orientd , store data in the forms of collections and document
+
+/* in the sql we call the data store in form of table and in mongo call the collection
+
+in table we have unique key to identify table uniquely , in mogno id(uid)
+
+the data store in mongo like json
+
+vertical scaling => same machine increse storage
+
+bson => bainary json
+*/
