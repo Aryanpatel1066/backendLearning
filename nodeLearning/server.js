@@ -40,5 +40,7 @@ the data store in mongo like json
 
 vertical scaling => same machine increse storage
 
-bson => bainary json
+bson => bainary json 
+
+mongo db is open source now we install the mongo db
 */
