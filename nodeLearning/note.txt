@@ -1,0 +1,5 @@
+test is name of db => multiple collection => multiple documents
+
+cls to clear the screen
+
+show databases ; => show the how many db
