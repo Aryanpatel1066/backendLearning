@@ -23,3 +23,5 @@ update collection * db.student.renameCollection("student_new")
 remove collection db.student.remove({});
 
 db.student_new.drop();
+
+//successfully install mongodb
