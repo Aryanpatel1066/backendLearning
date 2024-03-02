@@ -25,3 +25,16 @@ remove collection db.student.remove({});
 db.student_new.drop();
 
 //successfully install mongodb
+
+
+// today we talk learn about soap (simple object access protocol)
+
+//rest api => represent state transfer 2 application communicate together in different format file
+
+=> change one stage to another create read update delete (crud)
+
+uri unique resource identifier => ipaddress,portnumber/nameofapp/versonnumber/reosucename/
+
+vehicle id : 4351 
+
+111.21.31.42:8181/vehiclestore/v1/vehicalev1/4351
